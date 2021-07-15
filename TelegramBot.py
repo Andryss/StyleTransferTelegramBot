@@ -15,7 +15,7 @@ STM = StyleTransferModel()
 print('Model loaded successfully!')
 
 # Bot preparation
-API_TOKEN = '1791353789:AAHOP85k0QiBQVb9Sfii9zUOK4MiNvNdkNs'
+API_TOKEN = 'SomeToken'
 bot = telebot.TeleBot(API_TOKEN)
 print('Bot is ready!')
 
